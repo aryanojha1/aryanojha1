@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**aryanojha1/aryanojha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...www.linkedin.com/in/aryan-ojha-652313209
 - 😄 Pronouns: ...Fitness.
 - ⚡ Fun fact: ...I'm a sportsperson.
--->
