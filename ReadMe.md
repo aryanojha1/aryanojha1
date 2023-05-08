@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Aryan Ojha<br>I’m currently learning CS and passionate about Data Science.
+Hi 👋, I'm Aryan Ojha<br>I’m currently learning CS and passionate about Data Analytics.
 
 
 ## 🌐 Socials:
