@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 A passionate frontend web developer and enthusiastic data analytics beginner from India.<br>🌱 Currently pursuing Computer Science Engineering from VIT!<br> 
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanojha) 
 
