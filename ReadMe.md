@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 💻 I am a Btech student with majors in Computer Science from Vellore Institute of Technology.🤗<br> I find my technical interests in Problem Solving, Web development, Data Science, Technical writing and open source.<br> 
+🔭 💻 I am a Btech student with majors in Computer Science from Vellore Institute of Technology.<br> 🤗I find my technical interests in Problem Solving, Web development, Data Science, Technical writing and open source.<br> 
 
   
 ## 🌐 Socials:
