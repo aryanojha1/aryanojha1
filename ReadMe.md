@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h1 align="center">Hi 👋, I'm Aryan Ojha</h1>
 <h3 align="center">A passionate frontend web developer and enthusiastic data analytics beginner from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanojha1&label=Profile%20views&color=0e75b6&style=flat" alt="aryanojha1" /> </p>
