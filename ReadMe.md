@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryanojha2002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13-hNSsTEuU9YxBZp-xXuPWyyiWmYEaUx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1a77wr1q_r31A0Up7YP1h2ku15xE-m4mj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
